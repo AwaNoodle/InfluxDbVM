@@ -1,4 +1,4 @@
-# AwaNoodle/Influx #
+# AwaNoodle/InfluxDbVM #
 
 A Vagrant file to create a machine that hosts InfluxDB and Graphana. It makes use of a [boot2docker base box](https://atlas.hashicorp.com/yungsang/boxes/boot2docker "base box") to offer a similar environment to using boot2docker directly.
 
